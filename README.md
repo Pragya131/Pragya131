@@ -40,33 +40,31 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+<h3 align="left">🛠️ Tools & Technologies</h3>
 
-<p>
+<p align="left">
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin-right: 15px;"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" style="margin-right: 15px;"/>
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50" style="margin-right: 15px;"/>
 </a>
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin-right: 15px;"/>
 </a>
 
 <a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50" height="50" style="margin-right: 15px;"/>
 </a>
 
 </p>
-
----
 
 ### 🚀 Skills
 
