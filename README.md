@@ -1,14 +1,15 @@
-![logo](https://github.com/Pragya131/Pragya131/blob/main/Github%20Banner.png)
+<img width="1584" height="396" alt="Cream Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/8a501de8-048d-4e7f-a508-4f216876ae1b" />
+
 
 
 <h1 align="center">Hi 👋, I'm Pragya</h1>
-<h3 align="center">SQL-savvy 🧠, Excel-obsessed 📊, Python-friendly 🐍—ready to crunch, clean, and create</h3>
+<h3 align="center">💻 Software Testing | 🐞 Manual Testing | 🧪 Test Case Design | 🗄️ SQL | 📊 Agile</h3>
 
 <img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragya131&label=Profile%20views&color=0e75b6&style=flat" alt="pragya131" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 Currently exploring automation along with manual testing 🚀
 
 - 👨‍💻 All of my projects are available at [https://pragyanaryal55.wixsite.com/pragya-naryal](https://pragyanaryal55.wixsite.com/pragya-naryal)
 
