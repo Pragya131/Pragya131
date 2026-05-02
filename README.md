@@ -15,7 +15,7 @@
 
 - 🌱 Currently learning **Automation Testing (Selenium)**  
 - 🐞 Passionate about **Manual Testing & Bug Finding**  
-- 🗄️ Strong in **SQL (Data Validation)**  
+- 🗄️ Strong in **SQL (Data Validation & Analysis)**  
 - 📊 Exploring **Data Analytics (Basics)**  
 - 💃 Love dancing  
 
@@ -70,8 +70,9 @@
 
 ## 📂 Projects
 
-- 🔹 SQL Food Delivery Project  
-- 🔹 Manual Testing Project  
+- 🔹 End-to-End Functional Testing – OpenCart (E-commerce workflows: Login, Cart, Checkout)  
+- 🔹 Banking & Payment Platform Testing – Cyclos (Transactions, User Management)  
+- 🔹 SQL Analysis – Swiggy Food Delivery Dataset (Joins, Aggregations, Insights)  
 
 ---
 
