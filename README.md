@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pragya</h1>
 <h3 align="center">💻 Software Testing | 🐞 Manual Testing | 🤖 Automation (Learning) | 🗄️ SQL</h3>
 
-<img align="right" alt="coding" width="350" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="coding" width="320" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=pragya131&label=Profile%20views&color=0e75b6&style=flat" />
@@ -11,62 +11,53 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🌱 Currently learning **Automation Testing (Selenium)** along with Manual Testing  
-- 🐞 Strong interest in **finding bugs & improving software quality**  
-- 🗄️ Skilled in **SQL for data validation & analysis**  
-- 📊 Exploring **Data Analytics concepts alongside testing**  
-- 💃 Fun fact: I love dancing  
-
----
-
-### 🔗 Portfolio
-- 👨‍💻 My work: https://pragyanaryal55.wixsite.com/pragya-naryal  
+- 🌱 Currently learning **Automation Testing (Selenium)**  
+- 🐞 Passionate about **Manual Testing & Bug Finding**  
+- 🗄️ Strong in **SQL (Data Validation)**  
+- 📊 Exploring **Data Analytics (Basics)**  
+- 💃 Love dancing  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: **pragyanaryal55@gmail.com**
+## 🔗 Portfolio
+👉 https://pragyanaryal55.wixsite.com/pragya-naryal  
 
 ---
 
-### 🤝 Connect with me
-<p>
+## 📫 Contact Me
+📧 pragyanaryal55@gmail.com  
+
+---
+
+## 🤝 Connect with me
+
 <a href="https://www.linkedin.com/in/pragya-naryal" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
-</p>
 
 ---
 
-<h3 align="left">🛠️ Tools & Technologies</h3>
+## 🛠️ Tools & Technologies
 
 <p align="left">
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin-right: 15px;"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>&nbsp;&nbsp;&nbsp;
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" style="margin-right: 15px;"/>
-</a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50" style="margin-right: 15px;"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin-right: 15px;"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50" height="50" style="margin-right: 15px;"/>
-</a>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="50"/>
 
 </p>
 
-### 🚀 Skills
+---
+
+## 🚀 Skills
 
 - Manual Testing  
 - Functional Testing  
@@ -77,7 +68,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📂 Projects
+
+- 🔹 SQL Food Delivery Project  
+- 🔹 Manual Testing Project  
+
+---
+
+## 📊 GitHub Stats
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragya131&show_icons=true&layout=compact" />
